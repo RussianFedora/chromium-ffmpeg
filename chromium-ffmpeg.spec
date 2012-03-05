@@ -3,7 +3,7 @@
 Name:           chromium-ffmpeg
 Summary:        The ffmpeg lib for Google's opens source browser Chromium
 Version:        19.0.1037.0
-Release:        1%{?dist}.R
+Release:        1%{?dist}
 
 License:        BSD
 Url:            http://code.google.com/p/chromium/
